@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plainwhite:
+  name: Markus Schwedeler
+  tagline: Econ PhD student @ BU
+  social_links:
+    github: mschwedeler
+  portfolio_image: "assets/picture.jpeg"
