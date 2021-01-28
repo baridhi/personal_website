@@ -12,9 +12,9 @@ I am a 4th-year PhD student in Economics at Boston University. My research inter
 
 I previously worked at the European Central Bank and the Fama-Miller Center of the University of Chicago.
 
-Email: `mschwed` "at" `bu` "dot" `edu`
+**Email**: `mschwed` "at" `bu` "dot" `edu`
 
-CV: [here]({% link assets/cv_01152021.pdf %})
+**CV**: [here]({% link assets/cv_01152021.pdf %})
 
 <p class="padded_between">
 </p>
