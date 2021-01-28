@@ -2,7 +2,7 @@ window.onload = function () {
     var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('searchbar'),
         resultsContainer: document.getElementById('search-results'),
-        json: '/personal_website/search.json',
+        json: '/personal_website/home/search.json',
         searchResultTemplate: '<a href="{url}" target="_blank">{title}</a>',
         noResultsText: ''
     });
