@@ -59,7 +59,7 @@ plugins:
 
 plainwhite:
   name: Markus Schwedeler
-  tagline: Econ PhD student @ BU
+  tagline: Econ PhD student @ Boston University
   social_links:
     github: mschwedeler
   portfolio_image: "assets/picture.jpg"
