@@ -8,7 +8,7 @@ custom_css: welcomepage
 
 ## Welcome!
 
-I am a 4th-year PhD student in Economics at Boston University. My research interests are in textual methods, macroeconomics, corporate finance, and history.
+I am a 4th-year PhD student in Economics at Boston University. My research interests are in behavioral macroeconomics, textual methods, corporate finance, and history.
 
 I previously worked at the European Central Bank and the Fama-Miller Center of the University of Chicago.
 
